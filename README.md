@@ -8,4 +8,7 @@
 -Aluno da cintia
 
 ### Onde você pode entrar em contato comigo!
-ana.teodolino.serafim@escola.pr.gov.br
+(ana.teodolino.serafim@escola.pr.gov.br)
+
+![image](https://github.com/user-attachments/assets/b648290e-692f-4671-b330-498634bc57ea)
+
